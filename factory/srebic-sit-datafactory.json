@@ -1,0 +1,9 @@
+{
+	"name": "srebic-sit-datafactory",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d26b7d60-eca3-4d70-987b-247b02586f00",
+		"tenantId": "8153d5b9-7993-4a88-9cda-69a07754949e"
+	}
+}
